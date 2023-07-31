@@ -1,4 +1,4 @@
-# Hope speech detestion datasets
+# Hope speech detection datasets
 
 This repository contains datasets for English and Russian languages:
 
